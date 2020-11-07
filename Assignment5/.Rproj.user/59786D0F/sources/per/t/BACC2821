@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586306368260.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BACC2821",
+    "lastKnownWriteTime" : 140218352295288,
+    "last_content_update" : 1586306368260,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B5C20FB5",
+        "caption" : "suicide.data",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=suicide.data&cache_key=B5C20FB5",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "expression" : "suicide.data",
+        "object" : "suicide.data",
+        "preview" : 0,
+        "totalObservations" : 10,
+        "variables" : 8
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

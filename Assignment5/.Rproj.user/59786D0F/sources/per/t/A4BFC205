@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586133107396.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "222063923",
+    "id" : "A4BFC205",
+    "lastKnownWriteTime" : 1586349890,
+    "last_content_update" : 1586349890716,
+    "path" : "~/Desktop/stat 441/Assignment5/Q1.R",
+    "project_path" : "Q1.R",
+    "properties" : {
+        "cursorPosition" : "24,56",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
